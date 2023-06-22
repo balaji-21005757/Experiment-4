@@ -1,4 +1,5 @@
-# Experiment-4
+# Experiment-3
+# JAVA PROGRAM TO PRINT THE EVEN NUMBERS FROM A RANGE
 # AIM :
 To write a java program to print the even numbers between 1 - 20
 # ALGORITHM :
